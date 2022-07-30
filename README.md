@@ -5,11 +5,12 @@ To create a Command-line User Interface (CUI) and Graphical User Interface (GUI)
 
 ## Requirements
 * Important Concepts of: 
-** Encapsulation
-** Abstraction
-** Inheritance
-** Polymorphism
+  * Encapsulation
+  * Abstraction
+  * Inheritance
+  * Polymorphism
 * Use NetBeans
+* Bug-free and has robust error handling
 
 ### Stage 1
 * Command-line User Interface (CUI) of a Hotel Booking Application 
